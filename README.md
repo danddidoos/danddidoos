@@ -10,7 +10,7 @@
 
 🤝 If you'd like to get in touch, connect with me on LinkedIn 
 
-🎮 Fun fact: I’m a big fan of Super Smash Bros. Ultimate - always down for a match!
+🎮 Fun fact: I’m a big fan of Super Smash Bros. Ultimate - hmu for a match!
 <!--
 **danddidoos/danddidoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
