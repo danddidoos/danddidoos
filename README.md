@@ -1,10 +1,10 @@
 
 # About me
-🔧 I'm currently building an RPG game using advanced pathfinding algorithms like A* and DFS.
+🔧 I'm currently building an RPG game using advanced pathfinding algorithms like A* and DFS
 
-📊 I'm also developing a real-time statistics website featuring live trackers.
+📊 I'm also developing a real-time statistics website featuring live trackers
 
-🧠 Currently gaining skills in Python, JavaScript, HTML, and CSS.
+🧠 Currently gaining skills in Python, JavaScript, HTML, and CSS
 
 💻 Passionate about Software Engineering and all things Cybersecurity - available to talk about anything
 
