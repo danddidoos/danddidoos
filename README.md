@@ -3,4 +3,4 @@
 </em></p>
 
 [![Linkedin: thedannyjordan](https://img.shields.io/badge/-thedannyjordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thedannyjordan/)](https://www.linkedin.com/in/thedannyjordan/)
-[![GitHub danddidoos](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/danddidoos)
+[![GitHub danddidoos](https://img.shields.io/github/followers/danddidoos?label=follow&style=social)](https://github.com/danddidoos)
